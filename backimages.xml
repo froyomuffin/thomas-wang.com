@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<!--  
+ - DALESATTLER - www.noponies.com
+'crossFadeTime' |#| time in SECONDS of the cross fade between images - Default is 3 seconds
+'imageTime' |#| how long in MINUTES do you want each image to display for. Note you can enter.5 etc for 30 seconds. Default = 1min
+'minWidth' |#| Minimum screen size width at which point the images will not be scaled - Default is 0 = no min point
+'minHeight' |#| Minimum screen size height at which point the images will not be scaled - Default is 0 = no min point
+'order' |#| random or sequential image loading - choose either "random" or "ordered" = Default is random
+-->
+
+<images crossFadeTime="3" imageTime="0.2" minWidth="0" minHeight="0" order="random">
+	<back><image>images/1.jpg</image></back>
+	<back><image>images/2.jpg</image></back>
+	<back><image>images/3.jpg</image></back>
+	<back><image>images/4.jpg</image></back>
+	<back><image>images/5.jpg</image></back>
+</images>

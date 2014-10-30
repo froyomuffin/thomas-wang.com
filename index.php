@@ -82,7 +82,7 @@
 <br>
 My name Thomas Wang and I'm an event and wedding photographer in the Montreal area. Presently a student at McGill, I specialize in portrait and landscape photography. 
 <br><br>
-I'm currently available for photoshoots and weddings during 2013.
+I'm currently available for photoshoots and weddings during 2014.
 </div>
 
 <div id='portfolio' style='padding:10px; background:#fff; text-align:justify;'>
